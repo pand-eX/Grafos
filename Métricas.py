@@ -8,4 +8,4 @@ grafo = igraph.load("C:/Users/Cliente/Desktop/Python/Grafos/Grafo.graphml")
 C:/Users/Cliente/Desktop/Python/Grafos/Grafo.graphml
 
 
-grafo = Graph.load('Grafo.graphml')
+grafo = igraph.load('Grafo.graphml')

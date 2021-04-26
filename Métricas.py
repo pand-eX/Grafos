@@ -7,6 +7,8 @@ grafo = igraph.load("Grafo.graphml")
 print(grafo)
 
 
+
+
 #visualizar
 plot(grafo, bbox = (0,0,600,600))
 # Visualização do grau de entrada, saída e entrada + saída do grafo
